@@ -1,6 +1,6 @@
 ># Quadratizer v1.0
 >> #### Introduction
-> Ever felt the need of an artificial body for factorizing or solving quadratic polynomials? Fret not, since Quadratizer is what you need!
+>> Ever felt the need of an artificial body for factorizing or solving quadratic polynomials? Fret not, since Quadratizer is what you need!
 >>
 >> Quadratizer inputs your quadratic polynomial in one variable and factorizes it instantly! It also provides you the roots of the polynomial.
 >
