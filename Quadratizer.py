@@ -87,7 +87,7 @@ def Factorise(var1, var2):
             elif (r2 == 0):
                   Factorised = f"({r1})({r2})"
       print(f"\n{polynomial} = {Factorised}")
-      print(f"Zeroes are {var1} and {var2}")
+      print(f"Roots are {var1} and {var2}")
 
 print("Quadratizer v1.0\nBuilt by ADITYA VN KADIYALA")
 polynomial = input("\nEnter quadratic polynomial\n(Give in format ±ax^2 ± bx ± c (inclusive of spaces): ")
