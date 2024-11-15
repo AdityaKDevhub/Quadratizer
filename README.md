@@ -8,7 +8,7 @@
 >> ###### Online Compiler
 >> 1. You can use an online compiler to run if you do not have a Python parser installed already in your computer. If you do, skip to the second method.
 >> 2. You can use Programiz Compiler for Python. Access it [using this link](https://www.programiz.com/python-programming/online-compiler/).
->> 3. Copy the code in the `Quadratizer.py` file and paste it in the tab on the left-hand side title `main.py`
+>> 3. Copy the code in the `Quadratizer.py` file and paste it in the tab on the left-hand side titled `main.py`
 >> 4. Press the 'Run' button and witness the execution in the output tab.
 >>
 >> ###### Python IDE
